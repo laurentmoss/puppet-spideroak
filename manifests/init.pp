@@ -8,6 +8,7 @@ class spideroak (
 
   ### TODO - if ubuntu
   apt::key { 'spideroak':
+    key => 'F1A41D5E',
     key_source => 'http://apt.spideroak.com/spideroak-apt-pubkey.asc'
   }
 
