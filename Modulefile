@@ -1,0 +1,8 @@
+name 'puppet-spideroak'
+version '0.0.1'
+source 'git://github.com/laurentmoss/puppet-spideroak'
+author 'Laurent Moss'
+license 'Apache 2.0'
+summary 'Download and install SpiderOak'
+description 'Download and install SpiderOak'
+project_page 'https://github.com/laurentmoss/puppet-spideroak'
